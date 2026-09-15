@@ -20,3 +20,5 @@
 *.ipynb
 *.py
 *.log
+*.json
+**/_translation_work/
